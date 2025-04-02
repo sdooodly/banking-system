@@ -1,0 +1,15 @@
+/workspaces/banking-system/src/obj/Debug/net8.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/banking-system/src/obj/Debug/net8.0/src.AssemblyInfoInputs.cache
+/workspaces/banking-system/src/obj/Debug/net8.0/src.AssemblyInfo.cs
+/workspaces/banking-system/src/obj/Debug/net8.0/src.csproj.CoreCompileInputs.cache
+/workspaces/banking-system/src/obj/Debug/net8.0/src.sourcelink.json
+/workspaces/banking-system/src/bin/Debug/net8.0/src
+/workspaces/banking-system/src/bin/Debug/net8.0/src.deps.json
+/workspaces/banking-system/src/bin/Debug/net8.0/src.runtimeconfig.json
+/workspaces/banking-system/src/bin/Debug/net8.0/src.dll
+/workspaces/banking-system/src/bin/Debug/net8.0/src.pdb
+/workspaces/banking-system/src/obj/Debug/net8.0/src.dll
+/workspaces/banking-system/src/obj/Debug/net8.0/refint/src.dll
+/workspaces/banking-system/src/obj/Debug/net8.0/src.pdb
+/workspaces/banking-system/src/obj/Debug/net8.0/src.genruntimeconfig.cache
+/workspaces/banking-system/src/obj/Debug/net8.0/ref/src.dll
