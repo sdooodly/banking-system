@@ -25,7 +25,7 @@
 
 ## Structure
 
-basic-banking-system-csharp/   
+banking-system/     
 ├── src/    
 │   ├── Account.cs         # Abstract base account class   
 │   ├── SavingsAccount.cs  # Savings account with interest   
