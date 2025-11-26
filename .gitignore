@@ -1,0 +1,45 @@
+## Visual Studio / .NET artifacts
+.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+publish/
+
+## Rider / IDE
+.idea/
+.vscode/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+
+## Logs and runtime output
+/logs/
+*.log
+
+## NuGet
+.nuget/
+packages/
+*.nupkg
+
+## Build results
+*.dll
+*.exe
+*.pdb
+*.app
+
+## Test results
+TestResults/
+*.trx
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Misc
+*.bak
+*.swp
