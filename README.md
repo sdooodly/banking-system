@@ -42,3 +42,20 @@ banking-system/
 - data persistence
 - more account types
 - security
+
+## Logs & OpenTelemetry
+
+- **Log files**: Each run writes a per-run structured log file to the `logs/` folder in the repository root. Files are named like `run-YYYYMMDD-HHMMSS.log`.
+- **Run and view logs**:
+```bash
+dotnet run --project src
+ls -lah logs
+tail -n 200 logs/run-*.log
+```
+- **OpenTelemetry (OTLP)**: The application uses OpenTelemetry tracing with Console and OTLP exporters. By default the OTLP exporter targets `localhost:4317`.
+- **Change OTLP endpoint** (example using environment variables):
+```bash
+export OTEL_EXPORTER_OTLP_ENDPOINT=http://collector.example.com:4317
+dotnet run --project src
+```
+- **Notes**: Console output is now produced via the logger (Serilog) and written to both console and the per-run log file. Traces are also printed to console by the OTel Console exporter and sent to the OTLP endpoint when configured.

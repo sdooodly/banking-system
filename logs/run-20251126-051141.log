@@ -1,0 +1,29 @@
+2025-11-26 05:11:41.770 +00:00 [INF] Application starting. Log file: /workspaces/banking-system/logs/run-20251126-051141.log
+2025-11-26 05:11:41.815 +00:00 [INF] Created accounts
+2025-11-26 05:11:41.824 +00:00 [INF] Account Number: SA123
+2025-11-26 05:11:41.826 +00:00 [INF] Current Balance: ¤1,000.00
+2025-11-26 05:11:41.828 +00:00 [INF] Interest Rate: 2.00 %
+2025-11-26 05:11:41.831 +00:00 [INF] Deposit of ¤10,500.00 successful. New balance: ¤11,500.00
+2025-11-26 05:11:41.831 +00:00 [INF] Withdrawal of ¤200.00 successful. New balance: ¤11,300.00
+2025-11-26 05:11:41.833 +00:00 [INF] Interest of ¤226.00 applied. New balance: ¤11,526.00
+2025-11-26 05:11:41.834 +00:00 [INF] Account Number: SA123
+2025-11-26 05:11:41.835 +00:00 [INF] Current Balance: ¤11,526.00
+2025-11-26 05:11:41.835 +00:00 [INF] Interest Rate: 2.00 %
+2025-11-26 05:11:41.836 +00:00 [INF] Account Number: CA456
+2025-11-26 05:11:41.836 +00:00 [INF] Current Balance: ¤500.00
+2025-11-26 05:11:41.836 +00:00 [INF] Overdraft Limit: ¤200.00
+2025-11-26 05:11:41.836 +00:00 [INF] Deposit of ¤22,200.00 successful. New balance: ¤22,700.00
+2025-11-26 05:11:41.837 +00:00 [INF] Withdrawal of ¤750.00 successful. New balance: ¤21,950.00
+2025-11-26 05:11:41.837 +00:00 [INF] Account Number: CA456
+2025-11-26 05:11:41.838 +00:00 [INF] Current Balance: ¤21,950.00
+2025-11-26 05:11:41.838 +00:00 [INF] Overdraft Limit: ¤200.00
+2025-11-26 05:11:41.839 +00:00 [INF] Withdrawal of ¤1.00 successful. New balance: ¤21,949.00
+2025-11-26 05:11:41.839 +00:00 [INF] --- Account Information (Polymorphic) ---
+2025-11-26 05:11:41.839 +00:00 [INF] Account Number: SA123
+2025-11-26 05:11:41.839 +00:00 [INF] Current Balance: ¤11,526.00
+2025-11-26 05:11:41.840 +00:00 [INF] Interest Rate: 2.00 %
+2025-11-26 05:11:41.840 +00:00 [INF] --- Account Information (Polymorphic) ---
+2025-11-26 05:11:41.840 +00:00 [INF] Account Number: CA456
+2025-11-26 05:11:41.840 +00:00 [INF] Current Balance: ¤21,949.00
+2025-11-26 05:11:41.840 +00:00 [INF] Overdraft Limit: ¤200.00
+2025-11-26 05:11:41.850 +00:00 [INF] Application finished
